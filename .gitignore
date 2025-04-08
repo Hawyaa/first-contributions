@@ -3,6 +3,8 @@
 .vs
 .env
 # User-specific files
+# Temporary files  
+*.tmp  
 *.rsuser
 *.suo
 *.user
